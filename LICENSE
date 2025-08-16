@@ -1,0 +1,117 @@
+# RiskEye Enterprise License Agreement
+
+**Effective Date: August 16, 2025**
+
+## 1. LICENSE GRANT
+
+RiskEye Technologies, Inc. ("Licensor") hereby grants to the entity or individual licensing this software ("Licensee") a non-transferable, non-exclusive, revocable license to use the RiskEye software, including the Global Risk Prediction Model and Self-Operating System, and all related documentation (collectively, the "Software") subject to the terms and conditions of this Agreement.
+
+## 2. AUTHORIZED USE
+
+### 2.1 Permitted Use
+Licensee may:
+- Install and use the Software on the number of servers or computing nodes specified in the Order Form.
+- Make one copy of the Software for backup purposes.
+- Use the Software solely for Licensee's internal business operations.
+
+### 2.2 Restrictions
+Licensee shall not:
+- Modify, adapt, alter, translate, or create derivative works from the Software.
+- Reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code of the Software.
+- Remove, alter, or obscure any proprietary notices on the Software.
+- Use the Software to provide services to third parties (including software-as-a-service) without prior written authorization.
+- Transfer, sublicense, rent, lease, sell, or otherwise distribute the Software to any third party.
+- Use the Software for any illegal purpose or in violation of any local, state, national, or international law.
+
+## 3. INTELLECTUAL PROPERTY
+
+### 3.1 Ownership
+The Software, including all intellectual property rights therein, is and shall remain the exclusive property of Licensor. Nothing in this Agreement shall be construed as transferring any aspects of such rights to Licensee or any third party.
+
+### 3.2 Feedback
+Any feedback, suggestions, or ideas provided by Licensee regarding the Software may be used by Licensor without obligation to Licensee, and Licensee hereby grants Licensor a perpetual, irrevocable, worldwide, royalty-free license to use such feedback for any purpose.
+
+## 4. SUBSCRIPTION AND PAYMENT
+
+### 4.1 Subscription Tiers
+The Software is licensed under the following tier structure:
+- **Standard Tier**: Basic functionality, limited to 5 computing nodes
+- **Professional Tier**: Advanced functionality, limited to 15 computing nodes
+- **Enterprise Tier**: Full functionality, limited to 50 computing nodes
+- **Unlimited Tier**: Full functionality with unlimited computing nodes
+
+### 4.2 Payment
+Licensee shall pay the subscription fees as set forth in the applicable Order Form. All fees are non-refundable except as expressly set forth in this Agreement.
+
+### 4.3 Subscription Term and Renewal
+The initial subscription term shall be as specified in the Order Form. Thereafter, the subscription shall automatically renew for successive terms of equal length unless either party provides written notice of non-renewal at least 30 days prior to the end of the then-current term.
+
+## 5. WARRANTY AND DISCLAIMER
+
+### 5.1 Limited Warranty
+Licensor warrants that the Software will perform substantially in accordance with the documentation for a period of 90 days from the date of initial delivery.
+
+### 5.2 Disclaimer
+EXCEPT FOR THE EXPRESS WARRANTY SET FORTH ABOVE, THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+## 6. LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS, REVENUE, DATA, OR DATA USE ARISING OUT OF OR RELATED TO THIS AGREEMENT, WHETHER IN AN ACTION IN CONTRACT, TORT, OR OTHERWISE, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. LICENSOR'S TOTAL LIABILITY FOR ANY DAMAGES SHALL NOT EXCEED THE AMOUNT OF FEES PAID BY LICENSEE FOR THE SOFTWARE DURING THE TWELVE (12) MONTHS IMMEDIATELY PRECEDING THE EVENT GIVING RISE TO LIABILITY.
+
+## 7. CONFIDENTIALITY
+
+### 7.1 Confidential Information
+Licensee acknowledges that the Software contains trade secrets and other confidential and proprietary information of Licensor. Licensee agrees to maintain the confidentiality of the Software and to use at least the same degree of care to protect the confidentiality of the Software as Licensee uses to protect its own confidential information, but in no event less than reasonable care.
+
+### 7.2 Breach of Confidentiality
+Licensee acknowledges that any breach of its confidentiality obligations will cause irreparable harm to Licensor for which monetary damages would be inadequate. Accordingly, Licensor may seek injunctive relief without the necessity of posting a bond.
+
+## 8. TERM AND TERMINATION
+
+### 8.1 Term
+This Agreement shall commence on the Effective Date and continue for the subscription term specified in the applicable Order Form, unless earlier terminated as provided herein.
+
+### 8.2 Termination for Breach
+Either party may terminate this Agreement if the other party breaches any material term of this Agreement and fails to cure such breach within 30 days of receiving written notice thereof.
+
+### 8.3 Effect of Termination
+Upon termination of this Agreement for any reason:
+- Licensee shall immediately cease all use of the Software.
+- Licensee shall destroy all copies of the Software and related documentation.
+- Licensee shall certify in writing to Licensor that it has complied with the foregoing obligations.
+
+## 9. GENERAL PROVISIONS
+
+### 9.1 Governing Law
+This Agreement shall be governed by and construed in accordance with the laws of the State of Delaware, without regard to its conflict of laws principles.
+
+### 9.2 Entire Agreement
+This Agreement constitutes the entire agreement between the parties concerning the subject matter hereof and supersedes all prior and contemporaneous agreements, proposals, or representations, written or oral, concerning its subject matter.
+
+### 9.3 Amendment
+No modification, amendment, or waiver of any provision of this Agreement shall be effective unless in writing and signed by the party against whom the modification, amendment, or waiver is to be asserted.
+
+### 9.4 Assignment
+Licensee may not assign or transfer this Agreement or any rights or obligations hereunder, whether by operation of law or otherwise, without the prior written consent of Licensor.
+
+### 9.5 Export Compliance
+Licensee shall comply with all applicable export laws and restrictions and regulations of all applicable jurisdictions in connection with the Software.
+
+### 9.6 Severability
+If any provision of this Agreement is held to be invalid or unenforceable, the remaining provisions of this Agreement will remain in full force.
+
+## 10. SUPPORT AND MAINTENANCE
+
+### 10.1 Support Services
+Licensor shall provide technical support services in accordance with the level of support purchased by Licensee as specified in the Order Form.
+
+### 10.2 Updates and Upgrades
+During the subscription term, Licensee shall be entitled to receive all updates and upgrades to the Software that Licensor makes generally available to its customers.
+
+---
+
+BY USING THE SOFTWARE, LICENSEE ACKNOWLEDGES THAT IT HAS READ THIS AGREEMENT, UNDERSTANDS IT, AND AGREES TO BE BOUND BY ITS TERMS AND CONDITIONS.
+
+RiskEye Technologies, Inc.
+support@riskeye.ai
+https://riskeye.ai
