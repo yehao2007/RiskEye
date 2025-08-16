@@ -1,0 +1,17 @@
+{
+    "strategy_name": "example_strategy",
+    "parameters": {
+        "risk_limit": 100000,
+        "order_size": 10,
+        "max_position": 50,
+        "entry_threshold": 0.01,
+        "exit_threshold": 0.005,
+        "trade_frequency": "high",
+        "symbols": ["AAPL", "GOOG", "MSFT"]
+    },
+    "enabled": true,
+    "logging": {
+        "level": "info",
+        "output": "logs/strategy.log"
+    }
+}
